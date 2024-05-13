@@ -1,0 +1,13 @@
+gui
+hash for master password
+encryption for stored passwords
+password generator
+a database/json file to store login information
+
+Inputs consist of 
+Name/Website: github.com
+Username/email: neefs
+Password (encrypted): supersecurepassword123
+
+websites could be listed on a left bar and when you click it highlights and brings up the info to the right
++ button top right to make new inputs
